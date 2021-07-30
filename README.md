@@ -13,7 +13,7 @@ requests to update, add new records, and delete.
 
 ## Dataset
 
-Oscar data - [Oscar-male.csv](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html)
+mlb Players data - [mlb_players.csv](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html)
 
 Use this to convert 100 records of the CSV file to an SQL insert:
 https://sqlizer.io/#/
