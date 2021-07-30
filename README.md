@@ -3,6 +3,8 @@
 In this project i have created HTML forms to create new records, update records, and a small form that
 has no fields other than a submit button to delete records.
 
+I have created a REST API and use Postman to test the GET, POST, PUT, and DELETE request methods.
+
 ### Note: 
 This project is setup to have Docker Compose setup a python flask app and a mysql server that will load data from
 the db/init.sql file the first time the database starts (note you will need to do a docker down by right clicking on
